@@ -1,1 +1,158 @@
+header {
+  width: 720px;
+  height: 120px;
+  background-color: #9D2020;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header li {
+  display: inline-block;
+  width: 192px;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 10px;
+  border: 2px solid #CA0707;
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: #CA0707;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+.ImageTextBlock img {
+  width: 181px;
+  border: 10px solid #BB2D2D;
+  border-radius: 25px;
+  margin-right: 20px;
+  margin-top: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 50px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ImageTextBlock {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.ImageTextBlock img {
+  width: 181px;
+  border: 10px solid #BB2D2D;
+  border-radius: 25px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.ImageTextBlock p {
+  font-size: 16px;
+  text-align: center;
+  border: 10px solid #9C3838;
+  background-color: #9C3838;
+  color:white;
+  border-radius: 25px;
+  padding-bottom: 20px;
+  margin-top: 100px;
+}
+
+.ContainerImg p {
+  width: 300px;
+  border: 10px solid #9C3838;
+  border-radius: 25px;
+  background-color: #9C3838;
+  color: white;
+  padding: 15px;
+  margin-top: 0;
+}
+
+.ContainerImg img {
+  width: 181px;
+  border: 10px solid #BB2D2D;
+  border-radius: 25px;
+  display: block;
+  margin: 20px auto 0;
+  margin-top: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color:white;
+  border: 10px solid #802222;
+  margin-left: 30px;
+  padding: 7px;
+  border-radius: 15px;
+  background-color: #802222;
+}
+
+footer {
+  background-color: #9D2020;
+  margin-top: 100px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+h1#Table {
+  color: white;
+  background-color: #9C3838;
+  border-radius: 25px;
+  padding: 15px 40px;
+  font-size: 28px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100px;
+  margin-top: 0;
+  background-color: #BE1A1A;
+  border-radius: 15px;
+  color: white;
+}
+
+td {
+  border: 10px solid #9C3838;
+  border-collapse: collapse;
+}
+
+table img {
+  width: 96px;
+     
+}
+
+.TableTitle {
+  color: white;
+  background-color: #9C3838;
+  border-radius: 25px;
+  padding: 15px 40px;
+  font-size: 28px;
+  margin-top: 30px;
+  text-align: center;
+  margin-right: 100px;
+}
+
+footer p {
+  border: 10px solid #802222;
+  margin-left: 10px;
+  margin-right: 456px;
+  background-color: #802222;
+  border-radius: 15px;
+  color:white;
+}
+
 
